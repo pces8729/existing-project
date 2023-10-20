@@ -1,0 +1,53 @@
+* {
+  text-align: right;
+}
+
+body {
+  background-image: url(/img/Grey.jpg);
+  background-size: cover;
+}
+
+p {
+  color: #aa4139;
+  text-align: center;
+  border: 1px solid #d4726a;
+  cursor: pointer;
+}
+p {
+  line-height: 5px;
+  font-family: italic;
+  font-weight: bold;
+  font-size: 100%;
+  font-family: "Poiret One", cursive;
+}
+
+img {
+  float: left;
+
+}
+footer {
+  clear: both;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+.webtext:first -child {
+  border: 1px solid #9a344f;
+}
+.active {
+  color: brown;
+}
+#div1 {
+  background: hsla(164, 24%, 55%, 0.2);
+  border: 1px solid #ffb0aa;
+}
+#div {
+  background: hsla(164, 24%, 55%, 0.2);
+  border: 1px solid #ffb0aa;
+  background-image: linear-gradient(80deg, rgba(255,0 ,0 ,0))   ;
+}

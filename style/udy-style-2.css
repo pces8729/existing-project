@@ -1,0 +1,12 @@
+h2 {
+  color: rgb(193, 218, 70);
+  background-color:  thistle;
+}
+
+p {
+  font-size: 20px;
+}
+span{
+  background-repeat: repeat-y;
+  font-size: 2em;
+}
